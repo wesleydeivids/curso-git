@@ -1,0 +1,16 @@
+C:\Users\Wesley Deivid\Desktop\cursos udemy\c#\projetos\Projeto_teste\Projeto_teste\bin\Debug\net5.0\Projeto_teste.exe
+C:\Users\Wesley Deivid\Desktop\cursos udemy\c#\projetos\Projeto_teste\Projeto_teste\bin\Debug\net5.0\Projeto_teste.deps.json
+C:\Users\Wesley Deivid\Desktop\cursos udemy\c#\projetos\Projeto_teste\Projeto_teste\bin\Debug\net5.0\Projeto_teste.runtimeconfig.json
+C:\Users\Wesley Deivid\Desktop\cursos udemy\c#\projetos\Projeto_teste\Projeto_teste\bin\Debug\net5.0\Projeto_teste.runtimeconfig.dev.json
+C:\Users\Wesley Deivid\Desktop\cursos udemy\c#\projetos\Projeto_teste\Projeto_teste\bin\Debug\net5.0\Projeto_teste.dll
+C:\Users\Wesley Deivid\Desktop\cursos udemy\c#\projetos\Projeto_teste\Projeto_teste\bin\Debug\net5.0\ref\Projeto_teste.dll
+C:\Users\Wesley Deivid\Desktop\cursos udemy\c#\projetos\Projeto_teste\Projeto_teste\bin\Debug\net5.0\Projeto_teste.pdb
+C:\Users\Wesley Deivid\Desktop\cursos udemy\c#\projetos\Projeto_teste\Projeto_teste\obj\Debug\net5.0\Projeto_teste.csprojAssemblyReference.cache
+C:\Users\Wesley Deivid\Desktop\cursos udemy\c#\projetos\Projeto_teste\Projeto_teste\obj\Debug\net5.0\Projeto_teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley Deivid\Desktop\cursos udemy\c#\projetos\Projeto_teste\Projeto_teste\obj\Debug\net5.0\Projeto_teste.AssemblyInfoInputs.cache
+C:\Users\Wesley Deivid\Desktop\cursos udemy\c#\projetos\Projeto_teste\Projeto_teste\obj\Debug\net5.0\Projeto_teste.AssemblyInfo.cs
+C:\Users\Wesley Deivid\Desktop\cursos udemy\c#\projetos\Projeto_teste\Projeto_teste\obj\Debug\net5.0\Projeto_teste.csproj.CoreCompileInputs.cache
+C:\Users\Wesley Deivid\Desktop\cursos udemy\c#\projetos\Projeto_teste\Projeto_teste\obj\Debug\net5.0\Projeto_teste.dll
+C:\Users\Wesley Deivid\Desktop\cursos udemy\c#\projetos\Projeto_teste\Projeto_teste\obj\Debug\net5.0\ref\Projeto_teste.dll
+C:\Users\Wesley Deivid\Desktop\cursos udemy\c#\projetos\Projeto_teste\Projeto_teste\obj\Debug\net5.0\Projeto_teste.pdb
+C:\Users\Wesley Deivid\Desktop\cursos udemy\c#\projetos\Projeto_teste\Projeto_teste\obj\Debug\net5.0\Projeto_teste.genruntimeconfig.cache
